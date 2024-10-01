@@ -89,6 +89,7 @@
 
 ```
 - 매개변수 개수가 많아지면 클라이언트 코드를 작성하거나 읽기 어렵다.
+
 #### 2. 자바빈즈 패턴
 ```JAVA
 public class NutritionFacts {
